@@ -1,0 +1,5 @@
+// Spring Roo 1.2.4.RELEASE [rev 75337cf] log opened at 2013-10-19 17:04:14
+project --topLevelPackage com.hakilisoft.hdata2 --projectName hdata2 --java 6 --packaging JAR
+// Spring Roo 1.2.4.RELEASE [rev 75337cf] log closed at 2013-10-19 17:04:24
+// Spring Roo 1.2.4.RELEASE [rev 75337cf] log opened at 2013-10-19 17:04:28
+jpa setup --database MYSQL --provider ECLIPSELINK 
